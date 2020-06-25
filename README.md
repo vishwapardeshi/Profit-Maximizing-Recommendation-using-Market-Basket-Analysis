@@ -20,7 +20,7 @@ The Market-segment specific undirected graphs weighted by lift was generated usi
 2. Greedy Approach
 
 ## Methodology 
-![Alt text](./img/methodology.jpg?raw=true "Title")
+![Alt text](https://github.com/vishwapardeshi/Profit-Maximizing-Recommendation-using-Market-Basket-Analysis/blob/master/img/methodolgy.jpg)
 
 
 

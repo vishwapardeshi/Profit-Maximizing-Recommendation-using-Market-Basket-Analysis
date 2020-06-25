@@ -1,0 +1,13 @@
+Invoice No,Date,CCountry Atomer_Name,Material_Name,Material_Owner,Colour,Colour-Cleaned,Block_No,slab_quant_2cm,slab_quant_5cm,area_2cm_sqft,area_5cm_sqft,Sale_Value,Material_Cost,Country,Taxonomy
+1,4/22/17,Company A,Material A,XYZ,Colonial White,Colonial White,1,,10,,618.542,27596.00204,349130,Country A,White
+2,4/22/17,Company B,Material B,XYZ,Colonial White,Colonial White,2,24,,1225.869405,,110384.0081,58166,Country A,White
+2,5/8/19,Company B,Material B,XYZ,Colonial White,Colonial White,3,13,,664.0125946,,18397.33469,162492,Country A,White
+1,5/8/19,Company A,Material C,XYZ,Absolute Black,Absolute Black,4,50,,2807.092906,,377145.3612,64970,Country D,Black
+3,4/22/17,Company C,Material B,XYZ,Absolute Black,Absolute Black,5,,3,,56.14185812,18397.33469,324243,Country D,Black
+4,4/27/18,Company C,Material D,XYZ,Viscon White BSL,Viscon White,6,,8,,2881.494222,9198.667346,316510,Country A,White
+5,4/27/18,Company B,Material C,XYZ,Viscon White BSL,Viscon White,7`,,3,,360.1867778,516557.6117,0,Country A,White
+5,4/27/18,Company B,Material D,XYZ,Colonial White,Colonial White,8,10,16,151.1007264,913.132,852752.4912,485142,Country A,White
+5,4/24/17,Company B,Material C,XYZ,Ghiblee,Ghiblee,9,3,12,402.9352704,707.389,318946.788,331013,Country A,Gold
+6,4/24/17,Company E ,Material B,XYZ,Ivory Gold,Ivory Gold,10,12,23,151.1007264,1278.597,676819.7791,352388,Country A,Gold
+7,4/27/18,Company B,Material C,XYZ,Thunder White,Thunder White,11,2,21,1351.20492,1284.542,302787.7959,433591,Country A,White
+8,4/27/18,Company B,Material C,XYZ,Thunder White,Thunder White,12,,1,,1459.527,799564.8202,234976,Country A,White

@@ -1,0 +1,13 @@
+rules,support,confidence,coverage,lift
+{copper black small} => {copper black},0.022222222,1,0.022222222,45
+{tropical green} => {amba white},0.022222222,1,0.022222222,45
+{tropical green} => {pretoria},0.022222222,1,0.022222222,15
+{tropical green} => {thunder white},0.022222222,1,0.022222222,9
+{amba white} => {pretoria},0.022222222,1,0.022222222,15
+{colombo juprana} => {black},0.022222222,1,0.022222222,4.090909091
+{impala black} => {black},0.022222222,1,0.022222222,4.090909091
+{tan brown} => {paradiso},0.022222222,1,0.022222222,15
+{tan brown} => {astoria gold},0.022222222,1,0.022222222,11.25
+{caspian white} => {alpine white},0.022222222,1,0.022222222,11.25
+{caspian white} => {viscont white},0.022222222,1,0.022222222,3.214285714
+{caspian white} => {colonial white},0.022222222,1,0.022222222,2.647058824

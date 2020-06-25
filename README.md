@@ -20,6 +20,7 @@ The Market-segment specific undirected graphs weighted by lift was generated usi
 2. Greedy Approach
 
 ## Methodology 
+![Alt text](/img/methodology.jpg?raw=true "")
 
 
 

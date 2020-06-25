@@ -20,14 +20,7 @@ The Market-segment specific undirected graphs weighted by lift was generated usi
 2. Greedy Approach
 
 ## Methodology 
+Due to the usage of sensitive and confidential information in this project, the anonymized data has been made available. The approach and results are discussed in detail in the report. The code however cant be made public. Here the metholody has been summarized for reference. Also, if you are working on something similar and want to discuss approach or bounce of ideas feel free to contact me.
+
 ![Alt text](https://github.com/vishwapardeshi/Profit-Maximizing-Recommendation-using-Market-Basket-Analysis/blob/master/img/methodolgy.jpg)
-
-Due to the usage of sensitive and confidential information in this project, the anonymized data has been made available. The approach and results are discussed in detail in the report. The code however cant be made public. However, if you are working on something similar and want to discuss approach or bounce of ideas feel free to contact me.
-
-
-
-
-
-
-
 

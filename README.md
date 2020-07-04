@@ -4,6 +4,8 @@ In this project, **Market Segment specific Promotion Campaigns were recommended*
 
 We leveraged **Predictive Market Basket & Graph Analysis to exploit customer purchasing patterns** and validate domain knowledge of Subject Matter Experts.
 
+![Product Graph for each Market Segment](https://github.com/vishwapardeshi/Profit-Maximizing-Recommendation-using-Market-Basket-Analysis/blob/master/img/segment-product-graph.jpg)
+
 ## Motivation
 Our sponsor for this project, MG Impex Pvt. Ltd is a 15 years old leading processor of natural stones in India. They process granite blocks and export slabs all around the world. Currently, the utilization of data is manual and heavily relies on the knowledge of a few key executives.
 
